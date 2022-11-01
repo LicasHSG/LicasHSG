@@ -8,5 +8,5 @@
 <a href = "mailto:godoy.lucashs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
-<a href="https://wakatime.com/badge/user/8ec46e50-f018-49de-b12e-04300da807e8/project/aa22f418-06ed-4748-a206-18a257a24558"><img src="https://wakatime.com/badge/user/8ec46e50-f018-49de-b12e-04300da807e8/project/aa22f418-06ed-4748-a206-18a257a24558.svg" alt="wakatime"></a>
+
 
